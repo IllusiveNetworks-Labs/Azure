@@ -3,6 +3,7 @@
 
 **Remark**
 AzurePIMReviewer relies on AzureADPreview module
+
 To use AzureADPreview module first uninstall all AzureAD module:
 - Remove-Module -Name AzureAD -ErrorAction SilentlyContinue
 - Uninstall-Module -Name AzureAD -AllVersions
