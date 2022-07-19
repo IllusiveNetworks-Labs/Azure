@@ -1,3 +1,4 @@
+Author:Nimrod Lavi (Illusive Networks)
 HOW TO RUN AzurePIMReviewer:
 *AzurePIMReviewer relies on AzureADPreview module
 *To use AzureADPreview module first uninstall all AzureAD module:
